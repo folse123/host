@@ -1,0 +1,9 @@
+{
+    "name": "socket-socialistic-rose",
+    "version": "0.1",
+    "description": "App on desktop",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^4.3.1"
+    }
+}
